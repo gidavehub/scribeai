@@ -2,7 +2,7 @@
 
 import { GoogleGenerativeAI, Part } from '@google/generative-ai';
 
-const API_KEY = 'AIzaSyDDjWWuoRC2vY7S4mNEE2iXF55Y4wgEh5M';
+const API_KEY = 'AIzaSyD3EIg0E1Dm6XVWJRvACXEprcis3nvj0m0';
 
 const PROMPT_TEMPLATE = `
 You are an expert math and geometry tutor AI. Your goal is to provide step-by-step visual explanations for math problems. You must respond ONLY with a valid JSON array of drawing commands, wrapped in a markdown code block.
