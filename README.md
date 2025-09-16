@@ -1,3 +1,22 @@
+# Developer Note (Important — Please Read)
+
+I built this entire prototype without owning a smartphone. I developed **Scribe AI** using my laptop and Expo's web option because running an Android/iOS emulator would immediately shut down my machine — my laptop only has **3GB RAM** and cannot handle emulator/resource-heavy builds. The phone you see in the demo video is a neighbor’s device I begged to borrow for a quick test and recording.
+
+---
+
+### Personal Background
+- Graduated high school about **3 years ago**.  
+- Originally from **Nigeria (West Africa)**, currently live in **The Gambia**.  
+- No sponsorship for college; I’ve been hustling and building where I can.  
+- Developed this project entirely on a **3GB RAM laptop** using Expo web workflow.  
+- The phone in the demo was **borrowed** from a neighbor only for testing.  
+
+I am a very gifted developer and mathematician and this project is just the beginning. Please give me a shot.  
+I truly need this **prize money** to get proper equipment (a modern laptop and a phone) and continue building.  
+With the right hardware and continued support, I will turn **Scribe AI** into a polished product that will blow your minds. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # ✍️ Scribe AI
 
 An interactive AI tutor that visually solves complex problems on a digital whiteboard. Scribe AI transforms static equations and text into dynamic, animated explanations with a fluid, handwritten effect, complete with spoken guidance.
